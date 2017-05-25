@@ -1,7 +1,5 @@
 #!/bin/bash
 
-
-
 # check if spotify is already running
 if pgrep -x "spotify" > /dev/null
 then
