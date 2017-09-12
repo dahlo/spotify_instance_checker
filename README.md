@@ -3,5 +3,5 @@ Checks if an instance of Spotify is already running before starting a new one. I
 
 Run this script instead of starting Spotify directly.
 
-Tested on Ubuntu 16.04.
+Tested on Liux Mint Cinnamon 17.1.
 
