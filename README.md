@@ -1,7 +1,8 @@
 # spotify_instance_checker
-Checks if an instance of Spotify is already running before starting a new one. If an instance is already running it will switch focus to the Spotify window.
+Checks if focus to the Spotify window is available, otherwise start an instance of Spotify. 
 
-Run this script instead of starting Spotify directly.
+This prevents starting a new instance if it is already running.
 
-Tested on Liux Mint Cinnamon 17.1.
+Run this script instead of starting Spotify directly. The first run of the script starts spotify, any further call will only focus it.
 
+Tested on Liux Mint Cinnamon 20.
